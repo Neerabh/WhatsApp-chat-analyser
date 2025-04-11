@@ -1,7 +1,5 @@
 # WhatsApp Chat Analyzer
 
-Try it - https://whatsapp-chat-stats-analyse.streamlit.app
-
 A web application to analyze WhatsApp chat logs for various metrics and insights.
 
 ## Installation
